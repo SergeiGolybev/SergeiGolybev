@@ -23,6 +23,7 @@ Tools:
 - REST-assured
 - JUnit5
 - Docker, Docker Compose
+- TestContainers
 - Postman
 - DevTools
 
