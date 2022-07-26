@@ -23,25 +23,20 @@ Hi there, I'm Golubev Sergei
 <h3 align="center">Tools:<h3>
 
 <h3 align="center">
+  
+
+Maven CI (GitHub Actions, AppVeyor) Selenide Lombok REST-assured JUnit5 Docker Compose Allure DevTools
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 </h3>
-
-<p align="center"> ⚙️ Maven  ⚙️ CI (GitHub Actions, AppVeyor)  ⚙️ Selenide  ⚙️ Lombok  ⚙️ REST-assured  ⚙️ JUnit5  ⚙️ Docker Compose  ⚙️ TestContainers  ⚙️ Postman  ⚙️ DevTools </p>
-
-<h3 align="center">Languages:</h3>
-
-<h3 align="center">
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-</h3>
-
+  
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
