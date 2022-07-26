@@ -25,7 +25,7 @@ Hi there, I'm Golubev Sergei
 <h3 align="center">
   
 
-Maven CI (GitHub Actions, AppVeyor) Selenide Lombok REST-assured JUnit5 Docker Compose Allure DevTools
+⚙️Maven  ⚙️CI(GitHub Actions, AppVeyor)  ⚙️Selenide  ⚙️Lombok  ⚙️REST-assured  ⚙️JUnit5  ⚙️Docker Compose  ⚙️Allure  ⚙️DevTools
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
